@@ -22,4 +22,28 @@ The project focuses on understanding the impact of studying abroad on students' 
 | `toas`          | Total score of acculturative stress (ASISS test) |
 
 ## Data Visualization
+Feature Correlation
+![Feature Correlation](images/feature_correlation.png)
 
+### Average total acculturative stress score by age group
+![Average total acculturative stress score by age group](images/average_total_acculturative_strees_score_by_age_group.png)
+
+### Average total depression score by age group
+![Average total depression score by age group](images/average_total_depression_score_by_age_group.png)
+
+### Average total depression score by international domestic status and gender
+![Average total depression score by international domestic status and gender](images/average_total_depression_score_by_international_domestic_status_and_gender.png)
+
+### Average total depression score by international domestic status and region
+![Average total depression score by international domestic status and region](images/average_total_depression_score_by_international_domestic_status_and_region.png)
+
+### Average total social connectedness score by age group
+![Average total social connectedness score by age group](images/average_total_social_connectedness_score_by_age_group.png)
+
+## Conclusion:
+1) The analysis between international and domestic students suggests differences in mental health outcomes (e.g., depression scores) between the two groups. This could indicate that international students face unique challenges that affect their mental health differently compared to their domestic counterparts.
+2) The visualization of depression scores by gender revealed potential disparities in how male and female students experience mental health issues. This highlights the importance of considering gender-specific approaches in mental health support and interventions.
+3) The analysis based on students' regions showed variation in depression scores, suggesting that cultural background might influence students' mental health.
+4) The examination of mental health scores and social connectedness across age groups provided insights into the varying needs and experiences of students at different stages of their academic and personal lives. Younger and older students may require different forms of support to address their specific challenges.
+
+I hope you find this project useful. Please feel free to reach if you have any question or feedback.
