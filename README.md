@@ -1,4 +1,4 @@
-# Student Mental Health Analysis
+# International Student's Mental Health Analysis
 ![Mental Health](images/mental_health.jpg)
 
 ## Overview
